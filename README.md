@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Akhil Verma 👋
 
-<!--
-**1001av/1001av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science graduate (B.Tech, 2025)**  
+💻 **Python Intern at SAA Consultancy**  
+🚀 Passionate about **Data Engineering, AI/ML, and Generative AI systems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Programming:** Python, SQL, HTML, CSS  
+- **AI/ML:** PyTorch, TensorFlow, LangChain, LangGraph, RAG, FAISS  
+- **Databases:** SQL Server, relational schema design, query optimization  
+
+---
+
+## 📂 Featured Projects
+- **RAG-based PDF QA System** – Retrieval-Augmented Generation pipeline for document validation.  
+- **Synthetic Data Generator** – Automated dummy data creation for testing and validation.  
+- **Resume Screening System** - An intelligent **Resume Screening System that uses (RAG)
+*(Pinned repositories showcase these projects — check them out!)*
+
+---
+
+## 🌱 Current Focus
+- Building scalable **data pipelines** and **AI agents**.  
+- Exploring **cloud-native ML deployment** and **MLOps best practices**.  
+- Preparing for **entry-level Data Engineer / Python Developer roles**.  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/akhil1001/)  
+- [Email](mailto:akhilverma10012003@gmail.com)  
+
+---
+
+⭐️ *I’m always open to collaborations on AI/ML, data engineering, and automation projects. Let’s build something impactful together!*
