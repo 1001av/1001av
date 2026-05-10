@@ -9,7 +9,7 @@
 ## 🔧 Skills & Tools
 - **Programming:** Python, SQL, HTML, CSS,
 - **AI/ML:** PyTorch, TensorFlow, LangChain, LangGraph, RAG, FAISS  
-- **Databases:** Microsoft SQL Server, SQL Server Management Studio (SSMS) relational schema design, query optimization  
+- **Databases:** Microsoft SQL Server, SQL Server Management Studio (SSMS), relational schema design, query optimization  
 
 ---
 
