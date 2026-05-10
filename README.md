@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills & Tools
-- **Programming:** Python, SQL, HTML, CSS  
+- **Programming:** Python, SQL, HTML, CSS, FastAPI  
 - **AI/ML:** PyTorch, TensorFlow, LangChain, LangGraph, RAG, FAISS  
 - **Databases:** SQL Server, relational schema design, query optimization  
 
